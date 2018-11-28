@@ -1,0 +1,8 @@
+{
+  "connections": {
+    "charidy": {
+      "connection_string": "mongodb://charidy:charidy1@ds227740.mlab.com:27740/charidy",
+      "connection_options": {}
+    }
+  }
+}
